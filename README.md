@@ -26,6 +26,5 @@
   <a href="https://https://www.linkedin.com/in/jonatec/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 <div>
-  ![Snake animation](https://github.com/jonatbom/jonatbom/921b0283245912547ce22c985ab218478f24dfca/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jonatbom/jonatbom/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
