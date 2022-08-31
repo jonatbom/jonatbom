@@ -1,7 +1,7 @@
 ### Hi there 👋 prazer meu  nome é Jonatas bem vindo ao meu perfil 
 
 <div>
-📖Estudando Ciência de  Computação  html/Css/Javascript <br>
+📖Estudando Ciência da Computação  html/Css/Javascript <br>
 🏃‍♂️Estou a procura de vagas de estágio  <br>
 🤔Já tenho uma base de Html/Css e Git <br>
 💭Meu alvo futuro é trabalhar como desenvolvedor web  e criar um programa  que tenho em mente<br>
