@@ -6,7 +6,7 @@
 🤔Já tenho uma base de Html/Css e Git <br>
 💭Meu alvo futuro é trabalhar como desenvolvedor web  e criar um programa  que tenho em mente<br>
 </div>
- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*bY8DM2-bGE2DCUPqvGtJJw.jpeg>
+ <img http://www.starttech.com.br/img/portfolio/06-thumbnail.jpg>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
