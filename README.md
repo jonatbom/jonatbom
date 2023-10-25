@@ -1,4 +1,4 @@
-### Hi there 👋 prazer meu  nome é Jonatas bem vindo ao meu perfil 
+### Oi 👋 prazer meu  nome é Jonatas bem vindo ao meu perfil 
 
 <div>
 📖Estudando Ciência da Computação  html/Css/Javascript <br>
