@@ -1,4 +1,4 @@
-### Oi 👋 prazer meu  nome é Jonatas bem vindo ao meu perfil 
+### Oi 👋 prazer, meu  nome é Jonatas bem vindo ao meu perfil 
 
 <div>
 📖Estudando Ciência da Computação  html/Css/Javascript <br>
@@ -6,7 +6,11 @@
 🤔Já tenho uma base de Html/Css e Git <br>
 💭Meu alvo futuro é trabalhar como desenvolvedor web  e criar um programa  que tenho em mente<br>
 </div>
+
+<div>
  <img http://www.starttech.com.br/img/portfolio/06-thumbnail.jpg>
+</div>
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
