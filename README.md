@@ -8,7 +8,7 @@
 </div>
 
 <div>
- <img http://www.starttech.com.br/img/portfolio/06-thumbnail.jpg>
+ <img https://github.com/jonatbom/jonatbom/issues/1#issue-1962021727>
 </div>
  
 
